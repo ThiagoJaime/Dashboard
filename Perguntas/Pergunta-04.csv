@@ -1,11 +1,11 @@
-"TEAM_ID","ABBREVIATION","NICKNAME","CITY","ARENA","ARENACAPACITY","","","","","","",""
-"1610612741","CHI","Bulls","Chicago","United Center","21711","","","","","","",""
-"1610612765","DET","Pistons","Detroit","Little Caesars Arena","21000","","","","","","",""
-"1610612764","WAS","Wizards","Washington","Capital One Arena","20647","","","","","","",""
-"1610612739","CLE","Cavaliers","Cleveland","Quicken Loans Arena","20562","","","","","","",""
-"1610612762","UTA","Jazz","Utah","Vivint Smart Home Arena","20148","","","","","","",""
-"1610612757","POR","Trail Blazers","Portland","Moda Center","19980","","","","","","",""
-"1610612761","TOR","Raptors","Toronto","Scotiabank Arena","19800","","","","","","",""
-"1610612752","NYK","Knicks","New York","Madison Square Garden","19763","","","","","","",""
-"1610612748","MIA","Heat","Miami","AmericanAirlines Arena","19600","","","","","","",""
-"1610612744","GSW","Warriors","Golden State","Chase Center","19596","","","","","","",""
+"TEAM_ID","ABBREVIATION","NICKNAME","CITY","ARENA","ARENACAPACITY",
+"1610612741","CHI","Bulls","Chicago","United Center","21711",
+"1610612765","DET","Pistons","Detroit","Little Caesars Arena","21000",
+"1610612764","WAS","Wizards","Washington","Capital One Arena","20647",
+"1610612739","CLE","Cavaliers","Cleveland","Quicken Loans Arena","20562",
+"1610612762","UTA","Jazz","Utah","Vivint Smart Home Arena","20148",
+"1610612757","POR","Trail Blazers","Portland","Moda Center","19980",
+"1610612761","TOR","Raptors","Toronto","Scotiabank Arena","19800",
+"1610612752","NYK","Knicks","New York","Madison Square Garden","19763",
+"1610612748","MIA","Heat","Miami","AmericanAirlines Arena","19600",
+"1610612744","GSW","Warriors","Golden State","Chase Center","19596",
