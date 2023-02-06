@@ -24,9 +24,9 @@ apresentação com a exploração dos dados. O repositório, trata-se dos dados 
 Maria:https://github.com/MariDutra<br>
 Pâmela:https://github.com/EloisePR<br>
 Priscila: https://github.com/Priscilabf<br>
-Marcos Siqueira: https://github.com/Priscilabf<br>
+Marcos Siqueira:https://github.com/MarcosPssiqueira<br>
 Thiago: https://github.com/ThiagoJaime<br>
 
 
 # 📜 Ferramentas Utilizadas 📜
- ## 🔹 MySQL 🔹 Workbench 🔹 GitHub 🔹 PowerBi 🔹 GitHub Desktop 🔹
+ ## 🔹 MySQL 🔹 Workbench 🔹 GitHub 🔹 PowerBi 🔹 GitHub Desktop 
